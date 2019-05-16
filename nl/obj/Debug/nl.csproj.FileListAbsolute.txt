@@ -1,0 +1,14 @@
+C:\Users\tommi\Desktop\Visual Studio local projects\nl\nl\bin\Debug\nl.exe.config
+C:\Users\tommi\Desktop\Visual Studio local projects\nl\nl\bin\Debug\nl.exe
+C:\Users\tommi\Desktop\Visual Studio local projects\nl\nl\bin\Debug\nl.pdb
+C:\Users\tommi\Desktop\Visual Studio local projects\nl\nl\obj\Debug\nl.csprojAssemblyReference.cache
+C:\Users\tommi\Desktop\Visual Studio local projects\nl\nl\obj\Debug\nl.csproj.CoreCompileInputs.cache
+C:\Users\tommi\Desktop\Visual Studio local projects\nl\nl\obj\Debug\nl.exe
+C:\Users\tommi\Desktop\Visual Studio local projects\nl\nl\obj\Debug\nl.pdb
+C:\Users\tommi\OneDrive\VS Projects\nl\nl\bin\Debug\nl.exe.config
+C:\Users\tommi\OneDrive\VS Projects\nl\nl\bin\Debug\nl.exe
+C:\Users\tommi\OneDrive\VS Projects\nl\nl\bin\Debug\nl.pdb
+C:\Users\tommi\OneDrive\VS Projects\nl\nl\obj\Debug\nl.csprojAssemblyReference.cache
+C:\Users\tommi\OneDrive\VS Projects\nl\nl\obj\Debug\nl.csproj.CoreCompileInputs.cache
+C:\Users\tommi\OneDrive\VS Projects\nl\nl\obj\Debug\nl.exe
+C:\Users\tommi\OneDrive\VS Projects\nl\nl\obj\Debug\nl.pdb
